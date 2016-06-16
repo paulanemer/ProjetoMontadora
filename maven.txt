@@ -1,2 +1,0 @@
-DIRETÓRIOS MAVEN - http://maven3tutorial.blogspot.com.br/2011/06/qual-e-estrutura-padrao-de-diretorios-e.html#.V1IFdPkrLIU
-
